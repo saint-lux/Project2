@@ -1,5 +1,5 @@
 # Description
-Using Convolutional Neural Networks for User Identification using Image data
+Using Convolutional Neural Networks (CNN) to create User Identification via Image data as a means to authenticate a user. This program is for the purpose of enhanced cybersecurity within Fintech based platforms.
 
 # Setting up - Google Co-Lab
 1. Start the Google Co-labs from Google Drive<br>
