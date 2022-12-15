@@ -1,0 +1,5 @@
+# Ignore saved models
+*.h5
+# Ignore saved features
+*.npy
+
